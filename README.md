@@ -1,12 +1,10 @@
 # Proj 2
 
-This program creates a simple social networking app 
+This project creates a simple social networking app 
 
-for an organization with up to 100 people. 
+for an organization with up to 100 people.  
 
-Each person can then become friends with 
+The user can become friends with other people 
 
-those people in the organization until a user
-
-exits the app.
+in the organization until they choose to exit the app.
 
