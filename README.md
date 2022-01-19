@@ -1,4 +1,4 @@
-PROJ 2
+#PROJ 2
 
 This program creates a simple social networking app
 
